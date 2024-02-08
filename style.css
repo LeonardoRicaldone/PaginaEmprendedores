@@ -16,7 +16,7 @@ h1 {
 .menu {
     display: flex;
     align-items: center;
-    padding: 0px 0px 0px 1000px;
+    padding: 0px 0px 0px 100px;
 }
 
 .pages {
