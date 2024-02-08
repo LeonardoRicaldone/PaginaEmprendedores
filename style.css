@@ -1,0 +1,19 @@
+
+a{
+    text-decoration: none;
+}
+
+header{
+    background-color: dodgerblue;
+    padding: 10px 10px 10px 40px;
+    display: flex;
+}
+
+.menu{
+    display: flex;
+    align-items: center;
+    padding: 0px 0px 0px 1100px;
+}
+.pages{
+    padding: 10px;
+}
